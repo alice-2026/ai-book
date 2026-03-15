@@ -1,2 +1,3 @@
-- 按照 readme.md 的说明，整理电子书章节目录 [已完成]
-- 根据readme.md调整结构，并编写初稿
+- 按照 README.md 的说明，整理电子书章节目录 [已完成]
+- 根据信息，章节 outline 已迁移到 data/chapter-outline.md
+- 下一步可推进：草拟 pages 结构或模板，实现 Github Pages 组织内容。
