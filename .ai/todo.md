@@ -1,2 +1,3 @@
 - 按照 readme.md 的说明，整理电子书章节目录 [已完成]
-- 根据readme.md调整结构，并编写初稿
+- 根据 readme.md 调整结构，并编写初稿
+- 设计一个专题网站，使用 github pages 发布
